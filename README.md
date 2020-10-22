@@ -1,5 +1,7 @@
 # OpenVDB Code Examples
-A repository to demonstrate eacho of the code examples from the [OpenVDB documentation](https://www.openvdb.org/documentation/doxygen/codeExamples.html)
+Demonstrates the code examples from the [OpenVDB documentation](https://www.openvdb.org/documentation/doxygen/codeExamples.html)
+
+Along side learning the OpenVDB syntax this is useful for showing how to build OpenVDB and it's dependencies as well as how to include it your own cmake program. 
 
 ## Compatibility
 - [x] Windows VS2019 x64
