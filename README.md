@@ -4,6 +4,10 @@ Demonstrates the code examples from the [OpenVDB documentation](https://www.open
 Along side learning the OpenVDB syntax this is useful for showing how to build OpenVDB and it's dependencies as well as how to include it your own cmake program. 
 
 ## Compatibility
+### OpenVDB Version
+Latest OpenVDB version tested: [v7.1.0](https://github.com/AcademySoftwareFoundation/openvdb/commit/1673faca40db14eddd2f26bda3015a38e1f73a22)
+
+### Build Compatibility
 - [x] Windows VS2019 x64
 - [ ] Windows VS2017 x64 (Coming soon)
 - [ ] Windows VS2015 x64 (Coming soon)
@@ -14,7 +18,8 @@ To download openvdb and dependencies run the 'setup.bat' batch file provided in 
 This will build OpenVDB from source so may take a few minutes. 
 
 ## Build
-To build the code run the 'build.bat' batch file provided.
+To build the code run the 'build.bat' batch file provided.  
+See [here](https://www.openvdb.org/documentation/doxygen/build.html) for detailed build documentaion
 
 ## Run 
 To run the code examples use 'run.bat'. This will run each code example, one after another. 
