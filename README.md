@@ -10,10 +10,14 @@ Along side learning the OpenVDB syntax this is useful for showing how to build O
 - [ ] Ubuntu 16.04 (Coming soon)
 
 ## Setup
-To download openvdb and dependencies run the 'setup.bat' batch file provided in this repository. 
+To download openvdb and dependencies run the 'setup.bat' batch file provided in this repository.
+This will build OpenVDB from source so may take a few minutes. 
 
 ## Build
-To build the code run the 'build.bat' batch file provided
+To build the code run the 'build.bat' batch file provided.
+
+## Run 
+To run the code examples use 'run.bat'. This will run each code example, one after another. 
 
 ## Code Progress
 - [x] “Hello, World” for OpenVDB [docs](https://www.openvdb.org/documentation/doxygen/codeExamples.html#sHelloWorld) [code](src/vdb_helloworld.cpp)
