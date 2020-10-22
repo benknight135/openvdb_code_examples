@@ -1,5 +1,5 @@
-# OpenVDB Sample
-A repository to demonstrate eacho of the code samples from the [OpenVDB documentation](https://www.openvdb.org/documentation/doxygen/codeExamples.html)
+# OpenVDB Code Examples
+A repository to demonstrate eacho of the code examples from the [OpenVDB documentation](https://www.openvdb.org/documentation/doxygen/codeExamples.html)
 
 ## Compatibility
 - [x] Windows VS2019 x64
